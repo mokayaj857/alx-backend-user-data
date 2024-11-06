@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.
 """
 Author :Linet Gitonga
 Definition of filter_datum function that returns an obfuscated log message
