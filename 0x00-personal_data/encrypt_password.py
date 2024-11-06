@@ -1,6 +1,6 @@
 #!/usr/bin/env python3,..
 """
-Author:Linet
+Author:John Mokaya
 Defines a hash_password function to return a hashed password
 """
 import bcrypt
